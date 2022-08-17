@@ -12,7 +12,7 @@ Use [this template](https://github.com/alchemycodelab/backend-yawp-sequelize) to
 ### Description
 
 Exciting news! Yawp has received Series A funding, but the new investors want you to expand from restaurant reviews to movie reviews. Thankfully, you have Sequelize installed to make adding new tables and data to your database much easier!
-
+npx sequelize-cli model:generate --name Genre --attributes type:string
 ## Instructions
 
 This deliverable will be a little different from others and will be more like a spotlight. We're going to talk a little about some concepts then break off and work on them with a pair, then we'll come back and cover more concepts.
